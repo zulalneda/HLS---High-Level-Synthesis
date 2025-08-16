@@ -1,0 +1,6 @@
+#ifndef __BIT_PRECISION_INITIALIZING_H__
+#define __BIT_PRECISION_INITIALIZING_H__
+
+#include <ap_int.h>
+
+#endif //__BIT_PRECISION_INITIALIZING_H__
